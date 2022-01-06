@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/sandraboniface/Desktop/RESSOURCES/Data_science/Omdena/MLOps/Omdena_projects/Final_project/venv"
+VIRTUAL_ENV="/Users/sandraboniface/Desktop/RESSOURCES/Data_science/Omdena/MLOps/Final_project_heroku/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

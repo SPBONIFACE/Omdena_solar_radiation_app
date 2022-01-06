@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/sandraboniface/Desktop/RESSOURCES/Data_science/Omdena/MLOps/Omdena_projects/Final_project/venv"
+set -gx VIRTUAL_ENV "/Users/sandraboniface/Desktop/RESSOURCES/Data_science/Omdena/MLOps/Final_project_heroku/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
