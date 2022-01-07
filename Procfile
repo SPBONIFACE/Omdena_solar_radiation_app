@@ -1,1 +1,1 @@
-web: streamlit run solar_radiation_app.py
+web: sh setup.sh && streamlit run solar_radiation_app.py
